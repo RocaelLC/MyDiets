@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     text-align: center;
     font-size: 50px;
@@ -19,3 +20,40 @@ h1{
 body{
 background-attachment: fixed;
 }
+=======
+.title {
+    text-align: center;
+margin-top: -50px;
+background-color: rgb(208, 227, 238);
+
+}
+
+#logo {
+    width: 350px;
+    right: 250px;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: -160px;
+    
+
+}
+.log{
+    background-color: rgb(228, 228, 11);
+}
+.new-screen{
+    text-align: center;
+    
+}
+.form-duds{
+    font-size: 20px;
+    margin: 30px;
+    padding: 25px;
+    inline-size: 30px;
+  
+
+
+}
+
+>>>>>>> 231a1500f0a9d8de827215f08de5db2e588ae5d5
